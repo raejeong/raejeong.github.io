@@ -14,26 +14,26 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name:
+  pic:
+  position:
   social:
-    - title: twitter
+    - title:
       url: #
-    - title: facebook
+    - title:
       url: #
-    - title: stack-overflow
+    - title:
       url: #
 
-- name: Larry Parker
+- name: Rae Jeong
   pic: 2
-  position: Lead Marketer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
+    - title: 
       url: #
     - title: linkedin
+      url: #
+    - title:
       url: #
 
 - name: Diana Petersen
