@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name:
-  pic:
-  position:
+- name:foo
+  pic:1
+  position:foo
   social:
     - title:
       url: #
@@ -29,11 +29,11 @@ people:
   pic: 2
   position:
   social:
-    - title: 
+    - title: github
       url: #
     - title: linkedin
       url: #
-    - title:
+    - title: twitter
       url: #
 
 - name: Diana Petersen
