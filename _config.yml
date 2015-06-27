@@ -14,17 +14,6 @@ color:
 
 # Team names, titles and social links
 people:
-- name:foo
-  pic:
-  position:foo
-  social:
-    - title:
-      url: #
-    - title:
-      url: #
-    - title:
-      url: #
-
 - name: Rae Jeong
   pic: 2
   position:
@@ -34,17 +23,6 @@ people:
     - title: linkedin
       url: #
     - title: twitter
-      url: #
-
-- name: Diana Petersen
-  pic: 
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
