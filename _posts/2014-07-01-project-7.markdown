@@ -1,5 +1,5 @@
 ---
-title: OLG Activation
+title: OLG7 Activation
 subtitle: Affordable/Functional/Open Source 
 layout: default
 modal-id: 7
