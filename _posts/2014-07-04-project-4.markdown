@@ -1,9 +1,9 @@
 ---
-title: Robotic Arm Project
+title: OLG Activation
 subtitle: Affordable/Functional/Open Source 
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 4
+date: 2014-07-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt

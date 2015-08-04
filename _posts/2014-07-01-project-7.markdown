@@ -2,8 +2,8 @@
 title: OLG Activation
 subtitle: Affordable/Functional/Open Source 
 layout: default
-modal-id: 4
-date: 2014-07-18
+modal-id: 7
+date: 2014-07-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt

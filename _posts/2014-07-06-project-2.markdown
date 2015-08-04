@@ -3,7 +3,7 @@ title: 3D Printer
 subtitle: Affordable/Customizable/Accurate 
 layout: default
 modal-id: 2
-date: 2014-07-18
+date: 2014-07-06
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
