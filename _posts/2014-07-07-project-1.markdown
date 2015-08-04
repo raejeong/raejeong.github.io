@@ -1,10 +1,10 @@
----
+﻿---
 title: Robotic Arm Project
 subtitle: Affordable/Functional/Open Source 
 layout: default
 modal-id: 1
 date: 2014-07-07
-img: CoverImage-RoboticArmProject.jpg
+img: Image-RoboticArmProject.jpg
 thumbnail: CoverImage-RoboticArmProject.jpg
 alt: image-alt
 project-date: Mechatronics Engineering
