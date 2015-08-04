@@ -1,4 +1,4 @@
-﻿---
+---
 title: Robotic Arm Project
 subtitle: Affordable/Functional/Open Source 
 layout: default
