@@ -1,4 +1,4 @@
-﻿---
+---
 title: OLG Activation
 subtitle: MakeLab/Arduino/Durable 
 layout: default
