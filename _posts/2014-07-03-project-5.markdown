@@ -1,5 +1,5 @@
 ---
-title: Residential Temperture Control System
+title: Residential Temperature Control System
 subtitle: Wilco/Reliable/Effective 
 layout: default
 modal-id: 5
@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Electrical Engineering
-client: Residential Temperture Control System
+client: Residential Temperature Control System
 category: Complete
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
