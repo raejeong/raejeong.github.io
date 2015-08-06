@@ -1,6 +1,6 @@
 ---
-title: OLG Activation
-subtitle: Affordable/Functional/Open Source 
+title: Skills Canada Robotics Competetion
+subtitle: High School/Inexpensive/Leadership 
 layout: default
 modal-id: 6
 date: 2014-07-02
@@ -8,8 +8,8 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Mechatronics Engineering
-client: Robotic Arm Project
-category: In Progress
+client: Skills Canada Robotics Competetion
+category: Complete
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
