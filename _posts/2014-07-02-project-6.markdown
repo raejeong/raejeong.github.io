@@ -1,6 +1,6 @@
 ---
 title: Skills Canada Robotics Competetion
-subtitle: High School/Inexpensive/Leadership 
+subtitle: High School/Robotics/Leadership 
 layout: default
 modal-id: 6
 date: 2014-07-02
