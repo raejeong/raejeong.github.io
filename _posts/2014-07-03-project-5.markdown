@@ -4,12 +4,13 @@ subtitle: Wilco/Reliable/Effective
 layout: default
 modal-id: 5
 date: 2014-07-03
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Image-ResidentialTemperatureControlSystem.jpg
+thumbnail: CoverImage-ResidentialTemperatureControlSystem.jpg
 alt: image-alt
 project-date: Electrical Engineering
 client: Residential Temperature Control System
 category: Complete
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+background: This was the main project at my time at Wilco Machine and Mold. Our client needed a way to control and monitor the temperature of 3 units and the heat should go down at night to save energy.
+description: The goals for this project was a PLC that gathers temperature data from each units, outside and boiler to control the three valves for each room and the boiler valve. The user should be able to set the temperature of each units and also be able to set the value of drop in temperature at night. The controls was kept simple by monitoring the temperature with time de-bouncing to decide when to turn on and off the relays that were controlling the valves. From the user interface, you can change all the variables to get the optimal setting you wanted. The outside temperature data was used to automatically adjust the boiler temperature change rate, according to the weather outside. This let us decrease the over and undershoot in the boiler temperature and therefore, decreasing the over and undershoot of individual apartment. This was a great project that taught me PLC programming, electrical wiring, user experience and little bit of controls algorithm and real life problems that comes with it.
 
 ---
