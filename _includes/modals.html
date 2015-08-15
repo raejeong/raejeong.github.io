@@ -14,9 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <object width="420" height="315"
-                            data="{{ post.youtube }}">
-                            </object>
+                            <iframe width="560" height="315" src="{{ post.youtube }}" frameborder="0" allowfullscreen></iframe>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p><b>Background</b> <br><br> {{ post.background }} <br> </p>
                             <p><br><b>Project Description</b> <br><br> {{ post.description }}</p>
