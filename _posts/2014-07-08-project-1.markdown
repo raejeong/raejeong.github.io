@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-07
 img: IMG_20161216_030727.jpg
-thumbnail: CoverImage-RoboticArmProject.jpg
+thumbnail: coverBucky.jpg
 alt: image-alt
 project-date: Mechatronics Engineering
 client: Robotic Arm Project
