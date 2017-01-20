@@ -4,7 +4,7 @@ subtitle: Controls/Dynamic/Modelling
 layout: default
 modal-id: 1
 date: 2014-07-07
-img: Image-RoboticArmProject.jpg
+img: IMG_20161216_030727.jpg
 thumbnail: CoverImage-RoboticArmProject.jpg
 alt: image-alt
 project-date: Mechatronics Engineering
