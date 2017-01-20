@@ -1,0 +1,18 @@
+---
+title: Robotic Arm Project
+subtitle: Affordable/Functional/Open Source 
+layout: default
+modal-id: 1
+date: 2014-07-07
+img: Image-RoboticArmProject.jpg
+thumbnail: CoverImage-RoboticArmProject.jpg
+alt: image-alt
+project-date: Mechatronics Engineering
+client: Robotic Arm Project
+category: In Progress
+youtube_h: 378
+youtube1: https://www.youtube.com/embed/TQgRAH2TQKg
+youtube2: https://www.youtube.com/embed/dW-LSV4WwWA
+background: From May 4th, 2015 to August 28th, 2015, I was employed at MakeLab as the Research and Development Robotics Engineer Co-Op. During my time at MakeLab, I was in charge of the Robotic Arm Project (RAP). This project was started through my suggestion to develop a robotic arm from scratch. This was after realizing that the light weight robotic arms that are on the market do not completely suit the needs of MakeLab. The project started on the 25th of June 2015 and by mid July 2015, the project was put on hold as a result of a change of project priority at MakeLab. In order to finish the development of the robotic arm, I was given ownership of the project outside of MakeLab and continued the development as a separate entity with the goal to deliver the robotic arm at a later date. 
+description: I took a good look at the light weight robotic arms available, but either they were not functional or too expensive. I still wanted to learn more about the robotic arms, but there were just not enough information on how they are made. Robotic arms like the UR5 and Kinova’s JACO2 are amazing, but not only are they expensive, but I could not find much information on their individual actuators. So I started this project with MakeLab and now I am working with Swapnil Patel, a good friend of mine to accomplish the long dream of modular robotics! This project is all about keeping the cost low with reasonable functionality, a modular design and most importantly, keeping everything open source. The idea is to leverage the fast growing 3D printing technology and wildly available parts like PVC piping. The individual actuators are assembled with 3D printed parts that brings all of the motors, transmissions, microcontrollers, PVC pipings and various sensors together. These actuators are built to fit into 3 inch PVC piping, so that the robotic arm can be assembled using 3 inch PVC pipes, elbows, and other connectors to have the perfect configuration for the specific task. The goal of this project is to have a 4 DOF open source robotic arm with a 1 meter range and 1kg payload (at MAX range). The system is going to be ROS enabled, which means that anyone can use the open source platform of ROS to control our robotic arm! The material cost of this project is aimed to be $2500 CAD.
+---
