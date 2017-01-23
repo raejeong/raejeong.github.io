@@ -1,0 +1,15 @@
+---
+title: Jumping Robot
+subtitle: Controls/Dynamic/Modelling 
+layout: default
+modal-id: 1
+date: 2014-07-07
+img: IMG_20161216_030727.jpg
+thumbnail: coverBucky.jpg
+alt: image-alt
+project-date: Mechatronics Engineering
+client: Jumping Robot Project
+category: In Progress
+background: Inspired by the MIT Leg Lab’s 3D Hopper, I wanted to create an electro mechanical hopper, which balances with reaction wheels. This project has helped me learn and try out different controls techniques.
+description: This project is in progress.
+---

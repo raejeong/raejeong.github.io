@@ -1,0 +1,16 @@
+---
+title: Cantilever Design Project
+subtitle: UW/Optimization/Team work 
+layout: default
+modal-id: 6
+date: 2014-07-04
+img: Image-CantileverDesignProject.jpg
+thumbnail: CoverImage-CantileverDesignProject.jpg
+alt: image-alt
+project-date: Mechanical Engineering
+client: Cantilever Design Project
+category: Complete
+youtube_h: 0
+background: This was the main project in my 2A term in the Mechatronics Engineering program at the University of Waterloo. It was a 3 person team competition on which design has the best weight to payload ratio.
+description: First, I want to mention that this was a really fun project and our team really put the time into going above and beyond. So the challenge was simple, we were given material (specific wooden pins and plates) to use to design a cantilever that spans 30 cm with 4 anchor point on a wall. The real challenge was to use force analysis and failure mode calculations to find and build the best design. We started by creating a general structure for the bridge and wrote some MATLAB code to calculate the solution to the equation that described the bridge. With the way we modeled the problem, we could keep improving the weight to payload ratio by using more material. We were limited in the materials that were given to us, so we used all of it make the heaviest (double the weight of any cantilever in the competition) cantilever that was able to carry more than 20 kg at a reach of 30 cm and came in at 3rd place. But, one catch to the result was that we were actually stopped by the professor during the competition because our cantilever was so strong that the test bench broke before the cantilever did (our demo was scheduled last because of this reason!). Overall the project was a lot of fun and although we didn’t win the 1st place, we were the only group that broke the test bench and was forced to stop so I consider that an awesome win! There is a detailed report on this project, if anyone wants to take a look!
+---
