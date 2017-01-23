@@ -4,7 +4,7 @@ subtitle: Mechanical/Manipulator/Mechanism
 layout: default
 modal-id: 2
 date: 2014-07-07
-thumbnail: coverBucky.jpg
+thumbnail: diff.jpg
 alt: image-alt
 project-date: Mechanical Engineering
 client: Differential Reducer Project
