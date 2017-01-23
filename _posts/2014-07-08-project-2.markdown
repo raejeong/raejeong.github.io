@@ -4,11 +4,13 @@ subtitle: Mechanical/Manipulator/Mechanism
 layout: default
 modal-id: 2
 date: 2014-07-07
+img: diff.jpg
 thumbnail: diff.jpg
 alt: image-alt
 project-date: Mechanical Engineering
 client: Differential Reducer Project
 category: In Progress
+youtube_h: 378
 youtube2: https://www.youtube.com/embed/-KF0K7CJ614
 background: After making the four DOF robotic arm, I realized that the biggest obstacle to creating an affordable and capable robotic arm of the future relies on the gear reducer used for the robotic arm and the manipulation software. This motivated me to explore the alternatives to the widely popular but expensive and inefficient, harmonics drives. 
 description: This project is in progress.
