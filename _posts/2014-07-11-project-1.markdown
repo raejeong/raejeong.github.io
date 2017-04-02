@@ -1,6 +1,6 @@
 ---
-title: Handwritten Digit Recognizer
-subtitle: Machine Learning/Tensorflow 
+title: Crawler Robot
+subtitle: Reinforcement Learning 
 layout: default
 modal-id: 1
 date: 2014-07-07
