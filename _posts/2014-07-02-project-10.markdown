@@ -2,7 +2,7 @@
 title: Skills Canada Robotics Competition
 subtitle: High School/Robotics/Leadership 
 layout: default
-modal-id: 8
+modal-id: 10
 date: 2014-07-02
 img: Image-SkillsCanadaRoboticsCompetetion.jpg
 thumbnail: CoverImage-SkillsCanadaRoboticsCompetetion.jpg

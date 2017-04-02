@@ -2,7 +2,7 @@
 title: Jumping Robot
 subtitle: Controls/Reinforcement Learning 
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2014-07-07
 img: IMG_20161216_030727.jpg
 thumbnail: coverBucky.jpg

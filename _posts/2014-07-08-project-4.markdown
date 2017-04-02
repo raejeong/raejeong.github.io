@@ -2,7 +2,7 @@
 title: Differential Reducer
 subtitle: Mechanical/Manipulator/Mechanism 
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2014-07-07
 img: diff.jpg
 thumbnail: diff.jpg

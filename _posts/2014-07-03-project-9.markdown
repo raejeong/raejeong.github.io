@@ -2,7 +2,7 @@
 title: Residential Temperature Control System
 subtitle: Wilco/Reliable/Effective 
 layout: default
-modal-id: 7
+modal-id: 9
 date: 2014-07-03
 img: Image-ResidentialTemperatureControlSystem.jpg
 thumbnail: CoverImage-ResidentialTemperatureControlSystem.jpg

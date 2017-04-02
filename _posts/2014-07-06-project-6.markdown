@@ -2,7 +2,7 @@
 title: 3D Printer
 subtitle: Affordable/Customizable/Accurate 
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2014-07-06
 img: Image-3DPrinter.jpg
 thumbnail: CoverImage-3DPrinter.jpg

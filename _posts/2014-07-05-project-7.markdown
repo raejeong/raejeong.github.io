@@ -2,7 +2,7 @@
 title: OLG Activation
 subtitle: MakeLab/Arduino/Durable 
 layout: default
-modal-id: 5
+modal-id: 7
 date: 2014-07-05lg
 img: Image-OLGActivation.jpg
 thumbnail: CoverImage-OLGActivation.jpg
