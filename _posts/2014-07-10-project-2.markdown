@@ -11,5 +11,5 @@ project-date: Software Engineering
 client: Handwritten Digit Recognizer Project
 category: Complete
 background: This project utilizes Tensorflow to recognize handwritten digits using convolutional networks, as well as techniques such as learning rate decay and dropout to recognize handwritten digits to accuracy above 99%. This is completed by following a tutorial by Martin Gorner
-description: This project is in progress.
+description: This project is in complete.
 ---
