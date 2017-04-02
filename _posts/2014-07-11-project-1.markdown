@@ -4,8 +4,8 @@ subtitle: Reinforcement Learning
 layout: default
 modal-id: 1
 date: 2014-07-07
-img: imgConv.jpg
-thumbnail: coverConv.jpg
+img: imgCrawler.jpg
+thumbnail: coverCrawler.jpg
 alt: image-alt
 project-date: Software Engineering
 client: Handwritten Digit Recognizer Project
