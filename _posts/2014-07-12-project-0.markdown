@@ -1,0 +1,15 @@
+---
+title: Crawler Rasdobot
+subtitle: Reinforcement Learning 
+layout: default
+modal-id: 0
+date: 2014-07-07
+img: imgCrawler.jpg
+thumbnail: coverCrawler.jpg
+alt: image-alt
+project-date: Software Engineering
+client: Crawler Robot Project
+category: Complete
+background: This project uses approximate Q learning to learn locomotion of a simple 2D crawler and Pacman. The Q learning code is written from scratch and is one of a projects from CS188 Artificial Intelligence
+description: This project is in complete.
+---
