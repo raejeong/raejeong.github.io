@@ -1,15 +1,15 @@
 ---
-title: Crawler Robot
-subtitle: Reinforcement Learning 
+title: Raeboschool
+subtitle: Deep Reinforcement Learning 
 layout: default
 modal-id: 1
 date: 2014-07-07
-img: imgCrawler.jpg
-thumbnail: coverCrawler.jpg
+img: imgRaebo.jpg
+thumbnail: coverRaebo.jpg
 alt: image-alt
 project-date: Software Engineering
-client: Crawler Robot Project
+client: Raebo School
 category: Complete
-background: This project uses approximate Q learning to learn locomotion of a simple 2D crawler and Pacman. The Q learning code is written from scratch and is one of a projects from CS188 Artificial Intelligence
-description: This project is in complete.
+background: After taking the CS294 course online from Berkley, I wanted to get more familiar with the algorithms and really understand them at a implementation level. Around this time, OpenAI just realized that Roboschool environment, so I knew I had to try it out!
+description: In this project, I implemented different types of Deep RL algorithms for the awesome Roboschool environment from OpenAI. I also tried out a new algorithm called Advantage Actor-Suggester, which was my attempt at combining deep Q-learning and advantage actor-critic methods, for which you can find the paper in this link.
 ---

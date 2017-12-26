@@ -1,17 +1,15 @@
 ---
-title: Differential Reducer
-subtitle: Mechanical/Manipulator/Mechanism 
+title: Jumping Robot
+subtitle: Controls/Reinforcement Learning  
 layout: default
 modal-id: 4
 date: 2014-07-07
-img: diff.jpg
-thumbnail: diff.jpg
+img: IMG_20161216_030727.jpg
+thumbnail: coverBucky.jpg
 alt: image-alt
-project-date: Mechanical Engineering
-client: Differential Reducer Project
+project-date: Robotics
+client: Jumping Robot Project
 category: In Progress
-youtube_h: 378
-youtube1: https://www.youtube.com/embed/-KF0K7CJ614
-background: After making the four DOF robotic arm, I realized that the biggest obstacle to creating an affordable and capable robotic arm of the future relies on the gear reducer used for the robotic arm and the manipulation software. This motivated me to explore the alternatives to the widely popular but expensive and inefficient, harmonics drives. 
+background: Inspired by the MIT Leg Lab’s 3D Hopper, I wanted to create an electro mechanical hopper, which balances with reaction wheels. This project has helped me learn and try out different controls techniques and reinforcement learning techniques.
 description: This project is in progress.
 ---

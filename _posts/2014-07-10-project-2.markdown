@@ -1,13 +1,13 @@
 ---
-title: Handwritten Digit Recognizer
-subtitle: Machine Learning/Tensorflow 
+title: UR5 Motion Planning
+subtitle: Planning
 layout: default
 modal-id: 2
 date: 2014-07-07
-img: imgConv.jpg
-thumbnail: coverConv.jpg
+img: imgur.jpg
+thumbnail: coverur.jpg
 alt: image-alt
-project-date: Software Engineering
+project-date: Robotics
 client: Handwritten Digit Recognizer Project
 category: Complete
 background: This project utilizes Tensorflow to recognize handwritten digits using convolutional networks, as well as techniques such as learning rate decay and dropout to recognize handwritten digits to accuracy above 99%. This is completed by following a tutorial by Martin Gorner
