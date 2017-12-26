@@ -3,7 +3,7 @@ title: flot
 subtitle: Fourth Year Design Project 
 layout: default
 modal-id: 1
-date: 2014-07-09
+date: 2014-07-07
 img: coverflot.jpg
 thumbnail: coverflot.jpg
 alt: image-alt
