@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Robotics
 client: Fourth Year Design Project
 category: In Progress
-background: After taking the CS294 course online from Berkley, I wanted to get more familiar with the algorithms and really understand them at a implementation level. Around this time, OpenAI just realized that Roboschool environment, so I knew I had to try it out!
+background: Currently, as part of my undergraduate capstone project I am working on an autonomous indoor blimp robot with a team of five others. Compared to other autonomous platforms, the blimp provided excellent maneuverability and safety for indoor environments due to its low inertia and inherent stability. Our main goal for the project is to build a light-weight blimp and implement a local collision avoidance algorithm, and later combine it with a global planner.
 description: In this project, I implemented different types of Deep RL algorithms for the awesome Roboschool environment from OpenAI. I also tried out a new algorithm called Advantage Actor-Suggester, which was my attempt at combining deep Q-learning and advantage actor-critic methods, for which you can find the paper in this link.
 ---
