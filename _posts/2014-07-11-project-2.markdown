@@ -2,7 +2,7 @@
 title: Raeboschool
 subtitle: Deep Reinforcement Learning 
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-07
 img: coverur.jpg
 thumbnail: coverur.jpg

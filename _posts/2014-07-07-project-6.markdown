@@ -2,7 +2,7 @@
 title: Robotic Arm Project
 subtitle: Affordable/Functional/Open Source 
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2014-07-07
 img: Image-RoboticArmProject.jpg
 thumbnail: CoverImage-RoboticArmProject.jpg
