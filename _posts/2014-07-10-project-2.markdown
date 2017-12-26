@@ -4,7 +4,7 @@ subtitle: Planning
 layout: default
 modal-id: 2
 date: 2014-07-07
-img: imgur.jpg
+img: coverur.jpg
 thumbnail: coverur.jpg
 alt: image-alt
 project-date: Robotics
