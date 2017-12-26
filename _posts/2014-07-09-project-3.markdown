@@ -1,6 +1,6 @@
 ---
-title: Jumping Robot
-subtitle: Controls/Reinforcement Learning 
+title: CS294
+subtitle: Deep Reinforcement Learning 
 layout: default
 modal-id: 3
 date: 2014-07-07
