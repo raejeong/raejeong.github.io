@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-07
 img: coverur.jpg
-thumbnail: coverur.jpg
+thumbnail: coverflot.jpg
 alt: image-alt
 project-date: Robotics
 client: Fourth Year Design Project
