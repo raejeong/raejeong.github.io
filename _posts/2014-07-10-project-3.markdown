@@ -8,10 +8,10 @@ img: coverur.jpg
 thumbnail: coverur.jpg
 alt: image-alt
 project-date: Robotics
-client: Handwritten Digit Recognizer Project
+client: UR5 Motion Planning Project
 category: Complete
 youtube_h: 378
-youtube: https://www.youtube.com/embed/KOFQP3Pj4PY
-background: This project utilizes Tensorflow to recognize handwritten digits using convolutional networks, as well as techniques such as learning rate decay and dropout to recognize handwritten digits to accuracy above 99%. This is completed by following a tutorial by Martin Gorner
-description: This project is in complete.
+youtube: https://www.youtube.com/embed/Z7LyerMWiAA
+background: This was one of my main projects when I was at Istury Innovation.
+description: I was responsible for building the robot arm motion planner using MoveIt! for the UR5 robotic arm to be used in a sheet metal bending application. This video is a demonstration of the flexible motion planning module for UR5 robotic arm using STOMP planner in both simulation and real life.
 ---
