@@ -4,7 +4,7 @@ subtitle: Deep Reinforcement Learning
 layout: default
 modal-id: 4
 date: 2014-07-07
-img: imgcs.jpg
+img: coverur.jpg
 thumbnail: covercs.jpg
 alt: image-alt
 project-date: Mechatronics Engineering
