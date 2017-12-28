@@ -9,7 +9,7 @@ thumbnail: CoverImage-RoboticArmProject.jpg
 alt: image-alt
 project-date: Mechatronics Engineering
 client: Robotic Arm Project
-category: In Progress
+category: Complete
 youtube_h: 378
 youtube1: https://www.youtube.com/embed/TQgRAH2TQKg
 youtube2: https://www.youtube.com/embed/dW-LSV4WwWA
