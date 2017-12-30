@@ -11,7 +11,7 @@ project-date: Robotics
 client: UR5 Motion Planning Project
 category: Complete
 youtube_h: 378
-youtube: https://www.youtube.com/embed/Z7LyerMWiAA
+youtube1: https://www.youtube.com/embed/Z7LyerMWiAA
 background: This was one of my main projects when I was at Istury Innovation.
 description: I was responsible for building the robot arm motion planner using MoveIt! for the UR5 robotic arm to be used in a sheet metal bending application. This video is a demonstration of the flexible motion planning module for UR5 robotic arm using STOMP planner in both simulation and real life.
 ---
