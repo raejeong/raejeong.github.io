@@ -10,9 +10,6 @@ alt: image-alt
 project-date: Robotics
 client: Fourth Year Design Project
 category: In Progress
-youtube_h: 378
-youtube1: https://www.youtube.com/embed/KOFQP3Pj4PY
-youtube2: https://www.youtube.com/embed/krgU84V8UmE
 background: Currently
 description: Given  
 ---
