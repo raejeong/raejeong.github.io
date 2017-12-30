@@ -13,6 +13,6 @@ category: In Progress
 youtube_h: 378
 youtube1: https://www.youtube.com/embed/ke2ArdRh9SQ
 youtube2: https://www.youtube.com/embed/RGInvkDjNgs
-background: Around the time that I learnt more about robotics and controls, there was a big push forward in solving robotics controls problem with learning methods. These methods also gave hope for abstract and complex tasks such as robot manipulation in unknown environments.
-description: I knew that this was what I wanted to learn so I decided to read the Deep Learning Book, the Reinforcement Learning: Introduction as well as the CS231n Deep Learning course from Stanford.
+background: Around the time that I learnt more about robotics and controls, there were big push forward in solving robotics controls problem with learning methods. These methods also gave hope for abstract and complex tasks such as robot manipulation in unknown environments. I knew that this was what I wanted to learn so I decided to read the Deep Learning Book, the Reinforcement Learning Introduction as well as the CS231n Deep Learning course from Stanford. 
+description: After finishing these and talking to people in the field who gave me great insight, I found this amazing course on Deep Reinforcement Learning. I knew again that this is something that I wanted to learn so I decided to put effort into completing this course. Above are the videos of the DQN agent and the Policy Gradient for inverted pendulum that I trained for the Homework problems from the CS294 course. All the code for this course and the CS231n course are available on my github!
 ---
