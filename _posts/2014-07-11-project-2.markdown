@@ -13,5 +13,5 @@ category: Complete
 youtube_h: 378
 youtube1: https://www.youtube.com/embed/qhYEET0f1SM
 background: After taking the CS294 course online from Berkley, I wanted to get more familiar with the algorithms and really understand them at a implementation level. Around this time, OpenAI just realized that Roboschool environment, so I knew I had to try it out!
-description: In this project, I implemented different types of Deep RL algorithms for the awesome Roboschool environment from OpenAI. I also tried out a new algorithm called Advantage Actor-Suggester, which was my attempt at combining deep Q-learning and advantage actor-critic methods, for which you can find the paper in the following link: raejeong.com/A2S.pdf
+description: In this project, I implemented different types of Deep RL algorithms for the awesome Roboschool environment from OpenAI. I also tried out a new algorithm called Advantage Actor-Suggester, which was my attempt at combining deep Q-learning and advantage actor-critic methods, for which you can find the paper in the this <a href="raejeong.com/A2S.pdf">link</a>
 ---
